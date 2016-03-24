@@ -1,7 +1,7 @@
 name: Flora Magnifica
 favicon: null
-layout_spectrum: 0.50534
-typography_spectrum: 0.99448
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.5
   lightness: 0.4735050913877785
   saturation: 0.5
-  rhythmicContrast: 0.2350366914179176
+  rhythmicContrast: 0.25
 purpose: []
